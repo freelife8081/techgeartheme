@@ -1,0 +1,18 @@
+body {
+    font-size: 15pt;
+}
+.tem{
+  color: white;
+  background-color: blue;
+  border-radius: 5px;
+  padding: 8px;
+  text-decoration: none;
+}
+.den{
+  color: white;
+  background-color: green;
+  border-radius: 10px;
+  padding: 11px;
+  text-decoration: none;
+}
+  theme@8081
